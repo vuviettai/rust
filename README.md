@@ -1,1 +1,1 @@
-# rust
+Rust example projects
